@@ -89,8 +89,9 @@
     },
     "repositories": {
         "phpunit-bridge": {
+            "options": {"symlink": false},
             "type": "path",
-            "url": "../../../vendor/symfony/phpunit-bridge"
+            "url": "C:\\gitlabrepo\\eccubePrj\\aceclient\\vendor\\symfony\\phpunit-bridge"
         }
     }
 }
