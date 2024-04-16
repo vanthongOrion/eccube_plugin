@@ -9,6 +9,7 @@
 /vendor/
 /public/uploads
 /.vscode
+/bin/.phpunit
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
